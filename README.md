@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="profile-banner.png" width="100%" alt="Faridul Islam - Accounting and Finance">
+</div>
 <div align="center">
 
 # Md. Faridul Islam
