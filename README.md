@@ -1,175 +1,134 @@
-<div align="center">
-  <img src="profile-banner.png" width="100%" alt="Faridul Islam - Accounting and Finance">
-</div>
-<div align="center">
-
 
 <div align="center">
-  <img src="profile-banner.png" width="100%" alt="Md. Faridul Islam - Accounting and Finance Professional">
+  <img src="profile-banner.png" width="100%" alt="Md. Faridul Islam - Accounting and Finance Professional" />
 </div>
+
+<div align="center">
 
 # MD. FARIDUL ISLAM
 
-### Accounting and Finance Professional
+### ACCOUNTING AND FINANCE PROFESSIONAL
 
-3+ Years of Experience in Accounting, Financial Reporting, Bookkeeping and Administrative Support.
+**Bookkeeping | Financial Reporting | Reconciliation | Administration**
 
-Hatibandha, Lalmonirhat, Bangladesh
+[GitHub Profile](https://github.com/faridul007) · [Email](mailto:faridfz007@gmail.com) · Bangladesh
 
-Email: faridfz007@gmail.com
-
-Phone: +8801758-945808
-
-[GitHub Profile](https://github.com/faridul007)
+</div>
 
 ---
 
-## About Me
+## PROFESSIONAL PROFILE
 
-I am an accounting and finance professional with more than three years of combined experience in accounting, bookkeeping, financial reporting, cash management, banking transactions, reconciliation, taxation support, audit documentation and administrative coordination.
+Accounting and finance professional with over three years of combined experience in corporate accounting, microfinance operations, financial reporting and administrative support. Experienced in bookkeeping, cash and bank transactions, reconciliation, taxation support, audit documentation and financial record management.
 
-I have completed my Bachelor of Business Administration in Accounting from National University, Bangladesh. My professional experience includes working as a Junior Accountant at The Bengal Electric Ltd. and as a Branch Accountant in the Microfinance Program at Prottyashi.
+Proficient in QuickBooks Online, Xero, gBanker Plus and Microsoft Excel, with a strong focus on financial accuracy, organized documentation and efficient business operations.
 
-I am proficient in QuickBooks Online, Xero, gBanker Plus, Microsoft Excel and Microsoft Office. I focus on maintaining accurate financial records, preparing financial reports, analyzing financial data and supporting efficient business operations.
+## PROFESSIONAL EXPERIENCE
 
-## Professional Experience
+### Junior Accountant | Accounts and Administration
 
-### 1. Branch Accountant (Microfinance Program)
+**The Bengal Electric Ltd. | Dhaka, Bangladesh**
 
-Prottyashi, Chattogram, Bangladesh
+January 2023 – March 2025
 
-May 2025 - April 2026
+- Processed banking transactions, cheques, deposits and withdrawals.
+- Maintained accounting records, vouchers, registers and financial documents.
+- Assisted with taxation documentation, calculations and income tax returns.
+- Prepared official correspondence, reports and administrative documents.
+- Supported tender documentation, BOQ, FRQ, quotations and procurement.
+- Coordinated administrative activities and operational requirements.
 
-- Managed daily accounting transactions and financial records using gBanker Plus.
-- Prepared daily collection sheets, cash books, financial ledgers and operational reports.
-- Managed cash deposits, withdrawals, loan disbursements, savings and DPS transactions.
-- Maintained borrower records, member accounts, vouchers and supporting documents.
-- Reconciled branch cash and funds received from Head Office.
-- Completed daily closing, cash reconciliation and monthly financial reporting.
-- Supported internal and external audits and assisted Field Officers with accounting activities.
+### Branch Accountant | Microfinance Program
 
-### 2. Junior Accountant (Accounts and Admin Support)
+**Prottyashi | Chattogram, Bangladesh**
 
-The Bengal Electric Ltd., Dhaka, Bangladesh
+May 2025 – April 2026
 
-January 2023 - March 2025
+- Managed daily accounting operations and financial records using gBanker Plus.
+- Prepared collection sheets, cash books, ledgers and financial reports.
+- Recorded loan disbursements, savings, DPS and member transactions.
+- Reconciled cash balances and funds received from Head Office.
+- Completed daily closing procedures and maintained supporting documentation.
+- Assisted with audits, field accounting activities and monthly reporting.
 
-- Processed cheques, bank deposits, withdrawals and related financial transactions.
-- Maintained accounting records, vouchers, registers and supporting documents.
-- Assisted with tax documentation, tax calculations and income tax return preparation.
-- Prepared official letters, reports, emails, notices and business correspondence.
-- Supported BOQ, FRQ, tender documentation, quotations and procurement activities.
-- Coordinated administrative operations and procurement of office supplies and equipment.
+### Enumerator | Population and Housing Census 2022
 
-### 3. Enumerator
-
-Population and Housing Census 2022, Bangladesh Bureau of Statistics
+**Bangladesh Bureau of Statistics**
 
 2022
 
-- Collected and verified household and demographic information.
-- Maintained data accuracy, confidentiality and timely report submission.
+- Collected and verified household and demographic data.
+- Maintained data accuracy, confidentiality and timely submission.
 
-## Technical Skills
+## CORE COMPETENCIES
 
-### Accounting and Finance
+| Accounting and Finance | Systems and Software |
+|---|---|
+| Bookkeeping | QuickBooks Online |
+| Financial Reporting | Xero |
+| Bank Reconciliation | gBanker Plus |
+| Cash Management | Microsoft Excel |
+| Budgeting and Forecasting | Microsoft Word |
+| Taxation Support | PowerPoint and Access |
+| Audit Documentation | Financial Data Analysis |
+| Profitability Analysis | Microsoft Office |
 
-- Bookkeeping and Financial Reporting
+## SELECTED PROJECTS
+
+### Financial Statement Preparation
+
+Prepared sample financial statements using Microsoft Excel, focusing on financial reporting, account analysis and presentation.
+
+### Economic Value Added Analysis
+
+Analyzed business profitability and financial performance using the Economic Value Added methodology.
+
+### Budgeting and Financial Forecasting
+
+Developed sample budgets and explored cost control, financial planning and variance analysis.
+
+## CERTIFICATIONS
+
+- QuickBooks Online Certification – Level 1
+- Xero Advisor Certification
 - Financial Statement Preparation and Analysis
-- Cash Management and Bank Reconciliation
+- Financial Data Analysis and Reporting
+- Economic Value Added Analysis
 - Budget Preparation and Financial Planning
-- Tax Documentation and Compliance Support
-- Audit Documentation and Internal Controls
-- Loan and Savings Accounting
-- Profitability Analysis and Economic Value Added
-- Financial Forecasting and Variance Analysis
 
-### Accounting Software
+## EDUCATION
 
-- QuickBooks Online
-- Xero Accounting Software
-- gBanker Plus
+**Bachelor of Business Administration in Accounting**
 
-### Microsoft Office
+National University, Bangladesh | 2021
 
-- Microsoft Excel
-- Microsoft Word
-- Microsoft PowerPoint
-- Microsoft Access
+CGPA: 2.90 / 4.00
 
-### IT and Technical Skills
+**Higher Secondary Certificate | Commerce**
 
-- Windows Installation and Configuration
-- Hardware and Software Troubleshooting
-- Basic Networking
-- Adobe Photoshop and Illustrator
-- Filmora Video Editing
+Dinajpur Board | 2017 | GPA: 4.17 / 5.00
 
-## Practical Accounting Projects
+**Secondary School Certificate | Science**
 
-### 1. Financial Statement Preparation with Microsoft Excel
+Dinajpur Board | 2015 | GPA: 3.94 / 5.00
 
-Prepared sample financial statements and performed financial reporting and account analysis.
+Note: The BBA examination was conducted in 2023 due to the COVID-19 pandemic.
 
-### 2. Economic Value Added Analysis
+## TECHNICAL PROFICIENCY
 
-Analyzed profitability and financial performance using the Economic Value Added method.
+**Financial Analysis**
 
-### 3. Budgeting and Forecasting with Microsoft Excel
+Financial statement analysis, profitability analysis, EVA, budgeting, forecasting and variance analysis.
 
-Developed sample budgets and explored financial planning, cost control and variance analysis.
+**Information Technology**
 
-Explore my repositories: [github.com/faridul007](https://github.com/faridul007)
+Windows installation, hardware and software troubleshooting, basic networking, Photoshop, Illustrator and Filmora.
 
-## Certifications
+**Professional Skills**
 
-1. QuickBooks Online Certification - Level 1
-2. Xero Advisor Certification
-3. Financial Statement Preparation and Analysis
-4. Financial Data Analysis and Reporting
-5. Economic Value Added Analysis
-6. Budget Preparation and Financial Planning
+Documentation, communication, teamwork, coordination, problem-solving and time management.
 
-## Education
-
-### Bachelor of Business Administration
-
-Major: Accounting
-
-National University, Bangladesh
-
-Year: 2021
-
-CGPA: 2.90 out of 4.00
-
-Note: The examination was conducted in 2023 due to the COVID-19 pandemic.
-
-### Higher Secondary Certificate
-
-Group: Commerce
-
-Dinajpur Board
-
-Year: 2017
-
-GPA: 4.17 out of 5.00
-
-### Secondary School Certificate
-
-Group: Science
-
-Dinajpur Board
-
-Year: 2015
-
-GPA: 3.94 out of 5.00
-
-## Language Proficiency
-
-1. Bengali: Native
-2. English: Reading, Writing and Speaking
-
-## GitHub Statistics
+## GITHUB OVERVIEW
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faridul007&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics" />
@@ -179,31 +138,18 @@ GPA: 3.94 out of 5.00
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faridul007&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
 </div>
 
-## Contact Information
+## CONTACT
 
-Email: faridfz007@gmail.com
+**Email:** [faridfz007@gmail.com](mailto:faridfz007@gmail.com)
 
-Phone: +8801758-945808
+**Location:** Hatibandha, Lalmonirhat, Bangladesh
 
-Location: Hatibandha, Lalmonirhat, Bangladesh
-
-GitHub: [github.com/faridul007](https://github.com/faridul007)
-
-## Career Objective
-
-Seeking opportunities in accounting, finance, bookkeeping, financial reporting and administration where I can apply my professional experience, improve financial processes and contribute to organizational growth.
-
----
-
-Professional growth through accurate accounting, continuous learning and responsible financial management.
-
-- GitHub: [@faridul007](https://github.com/faridul007)
-- Email: your professional email address
+**GitHub:** [github.com/faridul007](https://github.com/faridul007)
 
 ---
 
 <div align="center">
 
-*Learning continuously. Working responsibly. Growing professionally.*
+Accounting with accuracy. Reporting with clarity. Working with integrity.
 
 </div>
