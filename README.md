@@ -133,6 +133,7 @@ Hatibandha, Lalmonirhat, Bangladesh
 
 ---
 
+
 <h2 align="center">03 | PROFESSIONAL JOURNEY</h2>
 
 <table>
@@ -141,7 +142,7 @@ Hatibandha, Lalmonirhat, Bangladesh
 
 ### Junior Accountant
 
-**The Bengal Electric Ltd.**
+**[The Bengal Electric Ltd.](https://bel-bd.net/)**
 
 Accounts and Administration | Dhaka, Bangladesh
 
@@ -165,7 +166,7 @@ Accounts and Administration | Dhaka, Bangladesh
 
 ### Branch Accountant
 
-**Prottyashi**
+**[Prottyashi](https://www.prottyashi.org/)**
 
 Microfinance Program | Chattogram, Bangladesh
 
@@ -197,6 +198,13 @@ Population and Housing Census 2022
 <td width="30%" align="right" valign="top">
 
 <img src="https://img.shields.io/badge/2022-64748B?style=flat-square"/>
+
+</td>
+</tr>
+</table>
+
+- Collected and verified household data while maintaining accuracy, confidentiality and timely reporting.
+
 
 </td>
 </tr>
